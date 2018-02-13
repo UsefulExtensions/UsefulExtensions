@@ -1,7 +1,7 @@
 ﻿<package >
   <metadata>
     <id>UsefulExtensions.Reflection</id>
-    <version>$version$</version>
+    <version>1.0.0</version>
     <title>UsefulExtensions.Reflection</title>
     <authors>Huseyin Ulas</authors>
     <owners>Huseyin Ulas</owners>
