@@ -53,6 +53,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="UsefulExtensions.EntityFramework.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UsefulExtensions.List\UsefulExtensions.List.csproj">
