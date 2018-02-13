@@ -1,15 +1,14 @@
-﻿<?xml version="1.0"?>
-<package >
+﻿<package >
   <metadata>
-    <id>$id$</id>
+    <id>UsefulExtensions.Reflection</id>
     <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <title>UsefulExtensions.Reflection</title>
+    <authors>Huseyin Ulas</authors>
+    <owners>Huseyin Ulas</owners>
     <projectUrl>https://github.com/huseyinulas/UsefulExtensions</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <summary>$description$</summary>
+    <description>UsefulExtensions.Reflection</description>
+    <summary>UsefulExtensions.Reflection</summary>
     <copyright></copyright>
     <tags></tags>
     <dependencies>
