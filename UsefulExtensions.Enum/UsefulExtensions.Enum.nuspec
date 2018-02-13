@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <id>UsefulExtensions.Enum</id>
+    <version>1.0.0</version>
+    <title>UsefulExtensions.Enum</title>
+    <authors>Huseyin Ulas</authors>
+    <owners>Huseyin Ulas</owners>
     <projectUrl>https://github.com/huseyinulas/UsefulExtensions</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <summary>$description$</summary>
+    <description>UsefulExtensions.Enum</description>
+    <summary>UsefulExtensions.Enum</summary>
     <copyright></copyright>
     <tags></tags>
     <dependencies>
