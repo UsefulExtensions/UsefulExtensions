@@ -14,5 +14,10 @@ namespace UsefulExtensions.Enum
 
             return value.ToString();
         }
+
+        public static T ToEnum<T>(this string value) where T : class 
+        {
+            return (T)System.Enum.Parse(typeof(T), value, true);
+        }
     }
 }
