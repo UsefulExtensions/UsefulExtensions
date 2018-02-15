@@ -13,9 +13,12 @@
     <copyright></copyright>
     <tags></tags>
     <dependencies>
+      <dependency  id="EntityFramework" version="6.2.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\UsefulExtensions.EntityFramework.dll" exclude="bin\Release\*.dll.config" target="lib\net461\UsefulExtensions.EntityFramework.dll" />
+    <file src="bin\Release\UsefulExtensions.EntityFramework.dll"  target="lib\net461" />
+    <file src="bin\Release\UsefulExtensions.Reflection.dll"  target="lib\net461" />
+    <file src="bin\Release\UsefulExtensions.List.dll"  target="lib\net461" />
   </files>
 </package>

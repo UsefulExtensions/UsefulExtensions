@@ -16,6 +16,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\UsefulExtensions.Enum.dll" exclude="bin\Release\*.dll.config" target="lib\net461\UsefulExtensions.Enum.dll" />
+    <file src="bin\Release\UsefulExtensions.Enum.dll" target="lib\net461" />
   </files>
 </package>

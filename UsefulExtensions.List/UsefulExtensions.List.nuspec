@@ -12,10 +12,13 @@
     <summary>UsefulExtensions.List</summary>
     <copyright></copyright>
     <tags></tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" />
+    </frameworkAssemblies>
     <dependencies>
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\UsefulExtensions.List.dll" exclude="bin\Release\*.dll.config" target="lib\net461\UsefulExtensions.List.dll" />
+    <file src="bin\Release\UsefulExtensions.List.dll" target="lib\net461" />
   </files>
 </package>
