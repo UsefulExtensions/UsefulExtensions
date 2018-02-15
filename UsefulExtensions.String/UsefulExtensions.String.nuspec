@@ -1,0 +1,20 @@
+﻿<package >
+  <metadata>
+    <id>UsefulExtensions.String</id>
+    <version>1.0.0</version>
+    <title>UsefulExtensions.String</title>
+    <authors>Huseyin Ulas</authors>
+    <owners>Huseyin Ulas</owners>
+    <projectUrl>https://github.com/huseyinulas/UsefulExtensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>UsefulExtensions.String</description>
+    <summary>UsefulExtensions.String</summary>
+    <copyright></copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\UsefulExtensions.String.dll"  target="lib\net461" />
+  </files>
+</package>
