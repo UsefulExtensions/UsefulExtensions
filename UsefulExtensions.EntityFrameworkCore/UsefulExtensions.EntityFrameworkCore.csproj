@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/UsefulExtensions/UsefulExtensions</PackageProjectUrl>
+    <Authors>UsefulExtensions</Authors>
+    <Company>UsefulExtensions</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UsefulExtensions.EntityFramework.Models\UsefulExtensions.EntityFramework.Models.csproj" />
+  </ItemGroup>
+
+</Project>

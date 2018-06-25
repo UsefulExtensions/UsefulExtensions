@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseDbContext.cs" />
     <Compile Include="DbContextExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -56,6 +57,10 @@
     <None Include="UsefulExtensions.EntityFramework.nuspec" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\UsefulExtensions.EntityFramework.Models\UsefulExtensions.EntityFramework.Models.csproj">
+      <Project>{0CD6AA1C-818B-49E6-89BA-7B799208FBDC}</Project>
+      <Name>UsefulExtensions.EntityFramework.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UsefulExtensions.List\UsefulExtensions.List.csproj">
       <Project>{3598B038-73E9-4024-8B3C-DF917D40713A}</Project>
       <Name>UsefulExtensions.List</Name>

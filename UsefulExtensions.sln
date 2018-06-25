@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulExtensions.Enum", "Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulExtensions.String", "UsefulExtensions.String\UsefulExtensions.String.csproj", "{33C7D867-3968-4F44-BC3C-D1FAEF5331DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulExtensions.EntityFramework.Models", "UsefulExtensions.EntityFramework.Models\UsefulExtensions.EntityFramework.Models.csproj", "{0CD6AA1C-818B-49E6-89BA-7B799208FBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulExtensions.EntityFrameworkCore", "UsefulExtensions.EntityFrameworkCore\UsefulExtensions.EntityFrameworkCore.csproj", "{C02EC0E3-9E3F-49E1-8069-6CAE7BC384B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{33C7D867-3968-4F44-BC3C-D1FAEF5331DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33C7D867-3968-4F44-BC3C-D1FAEF5331DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33C7D867-3968-4F44-BC3C-D1FAEF5331DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD6AA1C-818B-49E6-89BA-7B799208FBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD6AA1C-818B-49E6-89BA-7B799208FBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD6AA1C-818B-49E6-89BA-7B799208FBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD6AA1C-818B-49E6-89BA-7B799208FBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02EC0E3-9E3F-49E1-8069-6CAE7BC384B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02EC0E3-9E3F-49E1-8069-6CAE7BC384B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02EC0E3-9E3F-49E1-8069-6CAE7BC384B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02EC0E3-9E3F-49E1-8069-6CAE7BC384B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
