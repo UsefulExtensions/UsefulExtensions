@@ -7,6 +7,14 @@ namespace UsefulExtensions.EntityFrameworkCore
 {
     public abstract class BaseDbContext : DbContext
     {
+        public BaseDbContext() : base()
+        {
+        }
+
+        public BaseDbContext(DbContextOptions contextOptions) : base(contextOptions)
+        {
+        }
+
         public override int SaveChanges()
         {
             ChangeTracker.DetectChanges();
