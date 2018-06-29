@@ -2,11 +2,11 @@
 <package >
   <metadata>
     <id>UsefulExtensions.EntityFramework</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>UsefulExtensions.EntityFramework</title>
     <authors>Huseyin Ulas</authors>
     <owners>Huseyin Ulas</owners>
-    <projectUrl>https://github.com/huseyinulas/UsefulExtensions</projectUrl>
+    <projectUrl>https://github.com/UsefulExtensions/UsefulExtensions</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>UsefulExtensions.EntityFramework</description>
     <summary>UsefulExtensions.EntityFramework</summary>
@@ -20,5 +20,6 @@
     <file src="bin\Release\UsefulExtensions.EntityFramework.dll"  target="lib\net461" />
     <file src="bin\Release\UsefulExtensions.Reflection.dll"  target="lib\net461" />
     <file src="bin\Release\UsefulExtensions.List.dll"  target="lib\net461" />
+    <file src="bin\Release\UsefulExtensions.EntityFramework.Models.dll"  target="lib\net461" />
   </files>
 </package>
